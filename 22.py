@@ -8,3 +8,4 @@ def addd(*args):
     for shuzi in args:
        print(args)
 addd(2,4,6,8)
+ghf
